@@ -18,6 +18,7 @@ let ultimo = frutas[frutas.length - 1];
 
 frutas.forEach(function(elemento, indice, array){
     //console.log(elemento, indice);
+    
 })
 //__________________________________________________________
 // objeto
